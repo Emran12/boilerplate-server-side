@@ -38,5 +38,4 @@ function sendMail(orders) {
   });
 }
 
-
 module.exports = sendMail;
